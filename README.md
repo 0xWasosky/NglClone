@@ -1,2 +1,2 @@
-# ngl_clone
+# NGL clone 
 This is a simple NGL clone 
